@@ -56,10 +56,6 @@ A curated list of awesome Inkscape resources, tools, tutorials, and community li
 ## Extensions and Scripts
 
 - [Inkscape Extensions](https://inkscape.org/gallery/=extension/) - Official extensions repository.
-- [JessyInk](https://gitlab.com/inkscape/extensions/jessyink) - Create presentations in Inkscape.
-- [Inkscape Laser Tool](https://github.com/jnweiger/inkscape-extension-laserplugin) - Extension for laser cutting.
-- [Inkscape G-Code Tools](https://github.com/cnc-club/gcodetools) - Generate G-code for CNC machines.
-- [Inkscape Paperfold](https://github.com/Neon22/inkscape-paperfold) - Create paper folding designs.
 
 ## Plugins
 
