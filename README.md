@@ -7,6 +7,7 @@ A curated list of awesome Inkscape resources, tools, tutorials, and community li
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Books](#books)
+- [Extension Development](#extension-development)
 - [Community](#community)
 
 ## Official Resources
@@ -24,6 +25,11 @@ A curated list of awesome Inkscape resources, tools, tutorials, and community li
 
 ## Extension Development
 
+- [Official Extension Documentation](https://inkscape.org/develop/extensions/) - Learn how to create Inkscape extensions.
+- [Extension Writing Tutorial](https://wiki.inkscape.org/wiki/index.php/Extension_Writing) - Step-by-step guide on the Inkscape Wiki.
+- [Inkscape Extensions on GitHub](https://github.com/topics/inkscape-extension) - Open source extension projects.
+- [InkscapeForum Extensions Board](https://inkscape.org/forums/extensions/) - Community discussions about extensions.
+- [Python API for Inkscape Extensions](https://inkscape.gitlab.io/extensions/documentation/) - Documentation for the Python API.
 
 
 ## Books
