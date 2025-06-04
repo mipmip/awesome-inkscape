@@ -23,10 +23,10 @@ A curated list of awesome Inkscape resources, tools, tutorials, and community li
 
 - [Inkscape Manuals](https://inkscape-manuals.readthedocs.io/en/latest/) - Collection of Inkscape Manuals.
 - [Advanced Inkscape Techniques](https://design.tutsplus.com/categories/inkscape) - Advanced tutorials on TutsPlus.
-- https://creativenerds.co.uk/tutorials/inkscape-tutorials/
-- https://www.techdrivein.com/2011/08/10-good-inkscape-tutorials-for-vector.html
-- https://www.chrishilbig.com/a-crash-course-in-inkscape/
-- https://www.peppertop.com/blog/?p=1563
+- [Creative Nerds Tutorials](https://creativenerds.co.uk/tutorials/inkscape-tutorials/) - Collection of Inkscape tutorials for various design tasks.
+- [Tech Drive-In Tutorials](https://www.techdrivein.com/2011/08/10-good-inkscape-tutorials-for-vector.html) - 10 good Inkscape tutorials for vector graphics design.
+- [Crash Course in Inkscape](https://www.chrishilbig.com/a-crash-course-in-inkscape/) - A beginner-friendly crash course on Inkscape basics.
+- [Peppertop Tutorials](https://www.peppertop.com/blog/?p=1563) - Practical Inkscape tutorials and tips.
 
 ## Extension Development
 
