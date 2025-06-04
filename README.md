@@ -21,12 +21,16 @@ A curated list of awesome Inkscape resources, tools, tutorials, and community li
 
 ## Tutorials
 
+- [Inkscape Manuals](https://inkscape-manuals.readthedocs.io/en/latest/) - Collection of Inkscape Manuals.
 - [Advanced Inkscape Techniques](https://design.tutsplus.com/categories/inkscape) - Advanced tutorials on TutsPlus.
+- https://creativenerds.co.uk/tutorials/inkscape-tutorials/
+- https://www.techdrivein.com/2011/08/10-good-inkscape-tutorials-for-vector.html
+- https://www.chrishilbig.com/a-crash-course-in-inkscape/
+- https://www.peppertop.com/blog/?p=1563
 
 ## Extension Development
 
 - [Official Extension Documentation](https://inkscape.org/develop/extensions/) - Learn how to create Inkscape extensions.
-- [Extension Writing Tutorial](https://wiki.inkscape.org/wiki/index.php/Extension_Writing) - Step-by-step guide on the Inkscape Wiki.
 - [Inkscape Extensions on GitHub](https://github.com/topics/inkscape-extension) - Open source extension projects.
 - [InkscapeForum Extensions Board](https://inkscape.org/forums/extensions/) - Community discussions about extensions.
 - [Python API for Inkscape Extensions](https://inkscape.gitlab.io/extensions/documentation/) - Documentation for the Python API.
