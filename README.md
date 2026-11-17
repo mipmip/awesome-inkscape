@@ -29,6 +29,7 @@ In Help → Tutorials in Inkscape there are tutorials to learn about the fundame
 - [Tech Drive-In Tutorials](https://www.techdrivein.com/2011/08/10-good-inkscape-tutorials-for-vector.html) - 10 good Inkscape tutorials for vector graphics design.
 - [Crash Course in Inkscape](https://www.chrishilbig.com/a-crash-course-in-inkscape/) - A beginner-friendly crash course on Inkscape basics.
 - [Peppertop Tutorials](https://www.peppertop.com/blog/?p=1563) - Practical Inkscape tutorials and tips.
+- [AxiDraw Extension Guide](https://penplotterkit.com/blog/inkscape-axidraw-plugin-guide/) - Installing the AxiDraw extension, tuning pen height and plotting from Inkscape.
 
 ## Development
 
